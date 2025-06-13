@@ -13,7 +13,7 @@ The prompt after enhancement is
 
 The final seismc image is
 
-![image](https://github.com/user-attachments/assets/34531701-63af-463b-b4a2-ea3950d2288b)
+![image](https://github.com/user-attachments/assets/405253da-36f3-43af-9266-1c775f006425)
 
 Please cite my contribution if you find it is useful for your research and development.
 
